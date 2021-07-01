@@ -1,0 +1,7 @@
+<br />
+<b>Warning</b>:  Undefined array key "pro_id" in <b>C:\xampp\htdocs\Starct\Customer Panel\downloadfile.php</b> on line <b>5</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\Starct\Customer Panel\downloadfile.php:19
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\Starct\Customer Panel\downloadfile.php</b> on line <b>19</b><br />

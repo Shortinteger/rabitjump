@@ -1,0 +1,149 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 26/01/2018 10:09
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-001-wireframe:before { content: "\f100"; }
+.flaticon-002-internet:before { content: "\f101"; }
+.flaticon-003-browser:before { content: "\f102"; }
+.flaticon-004-website:before { content: "\f103"; }
+.flaticon-005-hourglass:before { content: "\f104"; }
+.flaticon-006-telescope:before { content: "\f105"; }
+.flaticon-007-spanner:before { content: "\f106"; }
+.flaticon-008-target:before { content: "\f107"; }
+.flaticon-009-levels:before { content: "\f108"; }
+.flaticon-010-search:before { content: "\f109"; }
+.flaticon-011-profits:before { content: "\f10a"; }
+.flaticon-012-safebox:before { content: "\f10b"; }
+.flaticon-013-rocket-launch:before { content: "\f10c"; }
+.flaticon-014-projector:before { content: "\f10d"; }
+.flaticon-015-presentation:before { content: "\f10e"; }
+.flaticon-016-pencil-case:before { content: "\f10f"; }
+.flaticon-017-paint-bucket:before { content: "\f110"; }
+.flaticon-018-file-2:before { content: "\f111"; }
+.flaticon-019-open-box:before { content: "\f112"; }
+.flaticon-020-mouse:before { content: "\f113"; }
+.flaticon-021-mind:before { content: "\f114"; }
+.flaticon-022-email:before { content: "\f115"; }
+.flaticon-023-mac:before { content: "\f116"; }
+.flaticon-024-padlock:before { content: "\f117"; }
+.flaticon-025-idea:before { content: "\f118"; }
+.flaticon-026-layout:before { content: "\f119"; }
+.flaticon-027-laptop:before { content: "\f11a"; }
+.flaticon-028-key:before { content: "\f11b"; }
+.flaticon-029-bug:before { content: "\f11c"; }
+.flaticon-030-home:before { content: "\f11d"; }
+.flaticon-031-hammer:before { content: "\f11e"; }
+.flaticon-032-folder:before { content: "\f11f"; }
+.flaticon-033-flow-2:before { content: "\f120"; }
+.flaticon-034-flow-1:before { content: "\f121"; }
+.flaticon-035-flow:before { content: "\f122"; }
+.flaticon-036-filter:before { content: "\f123"; }
+.flaticon-037-file-1:before { content: "\f124"; }
+.flaticon-038-edit:before { content: "\f125"; }
+.flaticon-039-director-chair:before { content: "\f126"; }
+.flaticon-040-development:before { content: "\f127"; }
+.flaticon-041-personal-computer:before { content: "\f128"; }
+.flaticon-042-keyboard-key:before { content: "\f129"; }
+.flaticon-043-pantone:before { content: "\f12a"; }
+.flaticon-044-coding-2:before { content: "\f12b"; }
+.flaticon-045-coding-1:before { content: "\f12c"; }
+.flaticon-046-coding:before { content: "\f12d"; }
+.flaticon-047-wall-clock:before { content: "\f12e"; }
+.flaticon-048-cursor:before { content: "\f12f"; }
+.flaticon-049-clipboard:before { content: "\f130"; }
+.flaticon-050-broken-link:before { content: "\f131"; }
+.flaticon-051-robot:before { content: "\f132"; }
+.flaticon-052-cabinet:before { content: "\f133"; }
+.flaticon-053-app:before { content: "\f134"; }
+.flaticon-054-megaphone:before { content: "\f135"; }
+.flaticon-055-file:before { content: "\f136"; }
+    
+    $font-Flaticon-001-wireframe: "\f100";
+    $font-Flaticon-002-internet: "\f101";
+    $font-Flaticon-003-browser: "\f102";
+    $font-Flaticon-004-website: "\f103";
+    $font-Flaticon-005-hourglass: "\f104";
+    $font-Flaticon-006-telescope: "\f105";
+    $font-Flaticon-007-spanner: "\f106";
+    $font-Flaticon-008-target: "\f107";
+    $font-Flaticon-009-levels: "\f108";
+    $font-Flaticon-010-search: "\f109";
+    $font-Flaticon-011-profits: "\f10a";
+    $font-Flaticon-012-safebox: "\f10b";
+    $font-Flaticon-013-rocket-launch: "\f10c";
+    $font-Flaticon-014-projector: "\f10d";
+    $font-Flaticon-015-presentation: "\f10e";
+    $font-Flaticon-016-pencil-case: "\f10f";
+    $font-Flaticon-017-paint-bucket: "\f110";
+    $font-Flaticon-018-file-2: "\f111";
+    $font-Flaticon-019-open-box: "\f112";
+    $font-Flaticon-020-mouse: "\f113";
+    $font-Flaticon-021-mind: "\f114";
+    $font-Flaticon-022-email: "\f115";
+    $font-Flaticon-023-mac: "\f116";
+    $font-Flaticon-024-padlock: "\f117";
+    $font-Flaticon-025-idea: "\f118";
+    $font-Flaticon-026-layout: "\f119";
+    $font-Flaticon-027-laptop: "\f11a";
+    $font-Flaticon-028-key: "\f11b";
+    $font-Flaticon-029-bug: "\f11c";
+    $font-Flaticon-030-home: "\f11d";
+    $font-Flaticon-031-hammer: "\f11e";
+    $font-Flaticon-032-folder: "\f11f";
+    $font-Flaticon-033-flow-2: "\f120";
+    $font-Flaticon-034-flow-1: "\f121";
+    $font-Flaticon-035-flow: "\f122";
+    $font-Flaticon-036-filter: "\f123";
+    $font-Flaticon-037-file-1: "\f124";
+    $font-Flaticon-038-edit: "\f125";
+    $font-Flaticon-039-director-chair: "\f126";
+    $font-Flaticon-040-development: "\f127";
+    $font-Flaticon-041-personal-computer: "\f128";
+    $font-Flaticon-042-keyboard-key: "\f129";
+    $font-Flaticon-043-pantone: "\f12a";
+    $font-Flaticon-044-coding-2: "\f12b";
+    $font-Flaticon-045-coding-1: "\f12c";
+    $font-Flaticon-046-coding: "\f12d";
+    $font-Flaticon-047-wall-clock: "\f12e";
+    $font-Flaticon-048-cursor: "\f12f";
+    $font-Flaticon-049-clipboard: "\f130";
+    $font-Flaticon-050-broken-link: "\f131";
+    $font-Flaticon-051-robot: "\f132";
+    $font-Flaticon-052-cabinet: "\f133";
+    $font-Flaticon-053-app: "\f134";
+    $font-Flaticon-054-megaphone: "\f135";
+    $font-Flaticon-055-file: "\f136";
